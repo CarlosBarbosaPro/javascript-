@@ -1,0 +1,36 @@
+body {
+    background-color: #2f4f4f;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: "montserrat";
+    text-decoration: none;
+}
+
+.js1 {
+    margin-top: 100px;
+}
+
+h2 {
+    font-size: 80px;
+}
+
+button {
+    position: relative;
+    background-color: #2f4f4f;
+    color: white;
+    font-size: 14px;
+    font-family: "montserrat";
+    text-decoration: none;
+    border: 2px solid #ff7675;
+    border-radius: 15px;
+    padding: 14px 60px;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: 1s all ease;
+}
+
+button:hover {
+    height: 380%;
+    background: #ff7675;
+}
